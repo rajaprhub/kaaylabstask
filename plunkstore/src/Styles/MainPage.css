@@ -1,0 +1,9 @@
+
+.tablecontent{
+    border: 1px solid yellowgreen ;
+    margin: auto;
+    width: max-content;
+    margin-top: 10px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
